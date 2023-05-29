@@ -1,6 +1,6 @@
 // Write your code here
 
-class BreakFast{
+class Breakfast{
     constructor(food, drink){
         this.food = food;
         this.drink = drink;
